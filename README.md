@@ -22,9 +22,9 @@
 - Git y GitHub
 - SQL
 
-## Contacto
+## Contacto: 3141613896
 
-- 📧 Correo institucional: [Escribe aquí tu correo]
+- 📧 Correo institucional:Jmoran3@ucol.mx
 - 💼 LinkedIn: [Agrega aquí tu perfil, si tienes uno]
 
 ---
